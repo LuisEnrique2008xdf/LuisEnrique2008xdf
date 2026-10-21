@@ -1,16 +1,14 @@
-## Hi there 👋
+¡Hey! 👋 Soy un desarrollador en formación
+💻 Actualmente voy en el trimestre 3 de 7 de mi formación en programación.
 
-<!--
-**LuisEnrique2008xdf/LuisEnrique2008xdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aprendiendo, creando proyectos y mejorando un poco cada día.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+🌱 Aprendiendo nuevas tecnologías
+💡 Explorando el mundo del desarrollo de software
+🎯 Enfocado en crecer como desarrollador
+📊 Un poco sobre mí
+📚 Siempre aprendiendo algo nuevo
+🔨 Construyendo proyectos para mejorar mis habilidades
+⚡ Code. Learn. Repeat.
+⭐ Gracias por visitar mi perfil. ¡Vamos construyendo!
